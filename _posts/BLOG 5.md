@@ -1,4 +1,7 @@
-
+---
+layout: post
+title: Week 3 Lab blog post!
+---
 <!DOCTYPE html>
 <html>
 <body>
