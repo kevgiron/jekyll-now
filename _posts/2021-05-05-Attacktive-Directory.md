@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Attacktive-Directory
 
@@ -108,5 +108,3 @@ published: false
 <dd>administrator:TryHackMe{4ctiveD1rectoryM4st3r}</dd>
  
 </dl>
-
-
