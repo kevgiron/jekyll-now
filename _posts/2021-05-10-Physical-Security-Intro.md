@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Week 15 Lab Physical Security
 
